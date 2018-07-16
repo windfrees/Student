@@ -1,0 +1,23 @@
+{
+  "name": "student",
+  "version": "1.0.0",
+  "description": "node.js项目",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/windfrees/Student.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/windfrees/Student/issues"
+  },
+  "homepage": "https://github.com/windfrees/Student#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "svg-captcha": "^1.3.11"
+  }
+}
